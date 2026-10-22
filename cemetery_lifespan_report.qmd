@@ -49,13 +49,13 @@ format:
 
         \fancypagestyle{body}{
           \fancyhf{}
-          \fancyhead[L]{\footnotesize\itshape Hendrickson. \textit{Survivorship Curves of Sunset Hill Cemetery}}
+          \fancyhead[L]{\footnotesize\itshape Ricks and Arnautovic. \textit{Survivorship Curves of Sunset Hill Cemetery}}
           \fancyhead[R]{\footnotesize Page \thepage\ of \pageref{LastPage}}
           \renewcommand{\headrulewidth}{0pt}
         }
         \fancypagestyle{plain}{
           \fancyhf{}
-          \fancyhead[L]{\footnotesize\itshape Hendrickson. \textit{Survivorship Curves of Sunset Hill Cemetery}}
+          \fancyhead[L]{\footnotesize\itshape Ricks and Arnautovic. \textit{Survivorship Curves of Sunset Hill Cemetery}}
           \fancyhead[R]{\footnotesize Page \thepage\ of \pageref{LastPage}}
           \renewcommand{\headrulewidth}{0pt}
         }
@@ -74,7 +74,7 @@ csl: newphytologist.csl
 \noindent
 \begin{minipage}[t]{0.66\linewidth}
   \scriptsize
-  Hendrickson. \textit{Survivorship Curves of Sunset Hill Cemetery}
+  Ricks and Arnautovic. \textit{Survivorship Curves of Sunset Hill Cemetery}
   \hfill (2026) 1:1\\
   Valdosta State University, Ecology and Evolution
 \end{minipage}
@@ -108,7 +108,7 @@ csl: newphytologist.csl
 
 \noindent
 {\small
-Brandon Thomas Hendrickson\textsuperscript{1,*}
+Brandon Thomas Ricks and Arnautovic\textsuperscript{1,*}
 }
 
 \vspace{0.08in}
@@ -162,7 +162,7 @@ Brandon Thomas Hendrickson\textsuperscript{1,*}
 
 \noindent
 {\scriptsize
-\textsuperscript{*}Correspondence: bhendrickson@valdosta.edu\\
+\textsuperscript{*}Correspondence: bRicks and Arnautovic@valdosta.edu\\
 \textsuperscript{1}Department of Biology, Valdosta State University,
 Valdosta, Georgia, USA\\
 Ecology and Evolution, BIOL 3250, Section B
